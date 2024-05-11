@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<profile>
+	<property name="ShowMobNames" type="System.Boolean">True</property>
+	<property name="ShowCorpseNames" type="System.Boolean">False</property>
+	<property name="DisplaySkillChanges" type="System.Boolean">False</property>
+	<property name="TitleBarText" type="System.String">UO - {char} {crimtime}- {statbar} Bp:{bp} Bm{bm} Gl{gl} Gs{gs} Mr{mr} Ns{ns} Ss{ss} Sa{sa}   Aids {aids}    Cure {cure} Ref {refresh} Heal {heal} Str{strength} Agl{agility} Exp{explo}</property>
+	<property name="TitleBarDisplay" type="System.Boolean">True</property>
+	<property name="AutoSearch" type="System.Boolean">True</property>
+	<property name="NoSearchPouches" type="System.Boolean">True</property>
+	<property name="CounterWarnAmount" type="System.Int32">5</property>
+	<property name="CounterWarn" type="System.Boolean">True</property>
+	<property name="ObjectDelay" type="System.Int32">600</property>
+	<property name="ObjectDelayEnabled" type="System.Boolean">True</property>
+	<property name="AlwaysOnTop" type="System.Boolean">True</property>
+	<property name="SortCounters" type="System.Boolean">True</property>
+	<property name="QueueActions" type="System.Boolean">False</property>
+	<property name="QueueTargets" type="System.Boolean">False</property>
+	<property name="WindowX" type="System.Int32">1390</property>
+	<property name="WindowY" type="System.Int32">105</property>
+	<property name="CountStealthSteps" type="System.Boolean">True</property>
+	<property name="SysColor" type="System.Int32">945</property>
+	<property name="WarningColor" type="System.Int32">37</property>
+	<property name="ExemptColor" type="System.Int32">1152</property>
+	<property name="SpeechHue" type="System.Int32">945</property>
+	<property name="BeneficialSpellHue" type="System.Int32">5</property>
+	<property name="HarmfulSpellHue" type="System.Int32">37</property>
+	<property name="NeutralSpellHue" type="System.Int32">945</property>
+	<property name="ForceSpeechHue" type="System.Boolean">False</property>
+	<property name="ForceSpellHue" type="System.Boolean">False</property>
+	<property name="SpellFormat" type="System.String">{power} [{spell}]</property>
+	<property name="ShowNotoHue" type="System.Boolean">False</property>
+	<property name="Opacity" type="System.Int32">24</property>
+	<property name="AutoOpenCorpses" type="System.Boolean">True</property>
+	<property name="CorpseRange" type="System.Int32">2</property>
+	<property name="BlockDismount" type="System.Boolean">False</property>
+	<property name="CapFullScreen" type="System.Boolean">False</property>
+	<property name="CapPath" type="System.String">C:\Users\tlittle\Pictures\RazorScreenShots</property>
+	<property name="CapTimeStamp" type="System.Boolean">True</property>
+	<property name="ImageFormat" type="System.String">jpg</property>
+	<property name="UndressConflicts" type="System.Boolean">True</property>
+	<property name="HighlightReagents" type="System.Boolean">False</property>
+	<property name="Systray" type="System.Boolean">False</property>
+	<property name="TitlebarImages" type="System.Boolean">False</property>
+	<property name="SellAgentMax" type="System.Int32">99</property>
+	<property name="SkillListCol" type="System.Int32">2</property>
+	<property name="SkillListAsc" type="System.Boolean">True</property>
+	<property name="AutoStack" type="System.Boolean">True</property>
+	<property name="ActionStatusMsg" type="System.Boolean">True</property>
+	<property name="RememberPwds" type="System.Boolean">False</property>
+	<property name="SpellUnequip" type="System.Boolean">True</property>
+	<property name="RangeCheckLT" type="System.Boolean">True</property>
+	<property name="LTRange" type="System.Int32">12</property>
+	<property name="FilterSnoopMsg" type="System.Boolean">True</property>
+	<property name="OldStatBar" type="System.Boolean">False</property>
+	<property name="SmartLastTarget" type="System.Boolean">False</property>
+	<property name="LastTargTextFlags" type="System.Boolean">True</property>
+	<property name="LTHilight" type="System.Int32">0</property>
+	<property name="AutoFriend" type="System.Boolean">True</property>
+	<property name="AutoOpenDoors" type="System.Boolean">True</property>
+	<property name="MessageLevel" type="System.Int32">0</property>
+	<property name="ForceIP" type="System.String" />
+	<property name="ForcePort" type="System.Int32">0</property>
+	<property name="ForceSizeEnabled" type="System.Boolean">False</property>
+	<property name="ForceSizeX" type="System.Int32">1000</property>
+	<property name="ForceSizeY" type="System.Int32">800</property>
+	<property name="PotionEquip" type="System.Boolean">False</property>
+	<property name="BlockHealPoison" type="System.Boolean">True</property>
+	<property name="SmoothWalk" type="System.Boolean">False</property>
+	<property name="Negotiate" type="System.Boolean">True</property>
+	<property name="MapX" type="System.Int32">200</property>
+	<property name="MapY" type="System.Int32">200</property>
+	<property name="MapW" type="System.Int32">200</property>
+	<property name="MapH" type="System.Int32">200</property>
+	<property name="LogPacketsByDefault" type="System.Boolean">False</property>
+	<property name="ShowHealth" type="System.Boolean">False</property>
+	<property name="HealthFmt" type="System.String">[{0}%]</property>
+	<property name="ShowPartyStats" type="System.Boolean">True</property>
+	<property name="PartyStatFmt" type="System.String">[{0}% / {1}%]</property>
+	<property name="HotKeyStop" type="System.Boolean">False</property>
+	<property name="DiffTargetByType" type="System.Boolean">False</property>
+	<property name="StepThroughMacro" type="System.Boolean">False</property>
+	<property name="ShowTargetSelfLastClearOverhead" type="System.Boolean">True</property>
+	<property name="ShowOverheadMessages" type="System.Boolean">False</property>
+	<property name="CaptureMibs" type="System.Boolean">False</property>
+	<property name="OverheadFormat" type="System.String">[{msg}]</property>
+	<property name="OverheadStyle" type="System.Int32">1</property>
+	<property name="GoldPerDisplay" type="System.Boolean">False</property>
+	<property name="LightLevel" type="System.Int32">31</property>
+	<property name="LogSkillChanges" type="System.Boolean">False</property>
+	<property name="StealthOverhead" type="System.Boolean">False</property>
+	<property name="ShowBuffDebuffOverhead" type="System.Boolean">True</property>
+	<property name="BuffDebuffFormat" type="System.String">[{action}{name} ({duration}s)]</property>
+	<property name="BlockOpenCorpsesTwice" type="System.Boolean">False</property>
+	<property name="ShowAttackTargetOverhead" type="System.Boolean">True</property>
+	<property name="RangeCheckTargetByType" type="System.Boolean">False</property>
+	<property name="RangeCheckDoubleClick" type="System.Boolean">False</property>
+	<property name="ShowContainerLabels" type="System.Boolean">False</property>
+	<property name="ContainerLabelFormat" type="System.String">[{label}] ({type})</property>
+	<property name="ContainerLabelColor" type="System.Int32">88</property>
+	<property name="ContainerLabelStyle" type="System.Int32">1</property>
+	<property name="Season" type="System.Int32">5</property>
+	<property name="BlockTradeRequests" type="System.Boolean">False</property>
+	<property name="BlockPartyInvites" type="System.Boolean">False</property>
+	<property name="AutoAcceptParty" type="System.Boolean">False</property>
+	<property name="MaxLightLevel" type="System.Int32">31</property>
+	<property name="MinLightLevel" type="System.Int32">0</property>
+	<property name="MinMaxLightLevelEnabled" type="System.Boolean">False</property>
+	<property name="ShowStaticWalls" type="System.Boolean">False</property>
+	<property name="ShowStaticWallLabels" type="System.Boolean">False</property>
+	<property name="ShowTextTargetIndicator" type="System.Boolean">False</property>
+	<property name="ShowAttackTargetNewOnly" type="System.Boolean">False</property>
+	<property name="FilterDragonGraphics" type="System.Boolean">False</property>
+	<property name="FilterDrakeGraphics" type="System.Boolean">False</property>
+	<property name="DragonGraphic" type="System.Int32">0</property>
+	<property name="DrakeGraphic" type="System.Int32">0</property>
+	<property name="ShowDamageDealt" type="System.Boolean">False</property>
+	<property name="ShowDamageDealtOverhead" type="System.Boolean">False</property>
+	<property name="ShowDamageTaken" type="System.Boolean">False</property>
+	<property name="ShowDamageTakenOverhead" type="System.Boolean">False</property>
+	<property name="ShowInRazorTitleBar" type="System.Boolean">True</property>
+	<property name="RazorTitleBarText" type="System.String">{name} on {account} ({profile} - {shard}) - Razor v{version}</property>
+	<property name="EnableUOAAPI" type="System.Boolean">True</property>
+	<property name="TargetIndicatorFormat" type="System.String">* Target *</property>
+	<property name="NextPrevTargetIgnoresFriends" type="System.Boolean">False</property>
+	<property name="StealthStepsFormat" type="System.String">Steps: {step}</property>
+	<property name="ShowFriendOverhead" type="System.Boolean">False</property>
+	<property name="DisplaySkillChangesOverhead" type="System.Boolean">False</property>
+	<property name="GrabHotBag" type="System.String">0</property>
+	<property name="MacroActionDelay" type="System.Boolean">False</property>
+	<property name="AutoOpenDoorWhenHidden" type="System.Boolean">False</property>
+	<property name="DisableMacroPlayFinish" type="System.Boolean">False</property>
+	<property name="ShowBandageTimer" type="System.Boolean">False</property>
+	<property name="ShowBandageTimerFormat" type="System.String">Bandage: {count}s</property>
+	<property name="ShowBandageTimerLocation" type="System.Int32">0</property>
+	<property name="OnlyShowBandageTimerEvery" type="System.Boolean">False</property>
+	<property name="OnlyShowBandageTimerSeconds" type="System.Int32">1</property>
+	<property name="ShowBandageTimerHue" type="System.Int32">88</property>
+	<property name="TargetIndicatorHue" type="System.Int32">10</property>
+	<property name="FilterSystemMessages" type="System.Boolean">True</property>
+	<property name="FilterRazorMessages" type="System.Boolean">True</property>
+	<property name="FilterDelay" type="System.Double">3.5</property>
+	<property name="FilterOverheadMessages" type="System.Boolean">True</property>
+	<property name="OnlyNextPrevBeneficial" type="System.Boolean">False</property>
+	<property name="FriendlyBeneficialOnly" type="System.Boolean">False</property>
+	<property name="NonFriendlyHarmfulOnly" type="System.Boolean">False</property>
+	<property name="ShowBandageStart" type="System.Boolean">False</property>
+	<property name="BandageStartMessage" type="System.String">Bandage: Starting</property>
+	<property name="ShowBandageEnd" type="System.Boolean">False</property>
+	<property name="BandageEndMessage" type="System.String">Bandage: Ending</property>
+	<property name="BuffDebuffSeconds" type="System.Int32">20</property>
+	<property name="BuffHue" type="System.Int32">88</property>
+	<property name="DebuffHue" type="System.Int32">338</property>
+	<property name="DisplayBuffDebuffEvery" type="System.Boolean">False</property>
+	<property name="BuffDebuffFilter" type="System.String" />
+	<property name="BuffDebuffEveryXSeconds" type="System.Boolean">False</property>
+	<property name="CaptureOthersDeathDelay" type="System.Double">0.5</property>
+	<property name="CaptureOwnDeathDelay" type="System.Double">0.5</property>
+	<property name="CaptureOthersDeath" type="System.Boolean">False</property>
+	<property name="CaptureOwnDeath" type="System.Boolean">False</property>
+	<property name="TargetFilterEnabled" type="System.Boolean">True</property>
+	<property name="FilterDaemonGraphics" type="System.Boolean">False</property>
+	<property name="DaemonGraphic" type="System.Int32">0</property>
+	<property name="SoundFilterEnabled" type="System.Boolean">False</property>
+	<property name="ShowFilteredSound" type="System.Boolean">False</property>
+	<property name="ShowPlayingSoundInfo" type="System.Boolean">False</property>
+	<property name="ShowMusicInfo" type="System.Boolean">False</property>
+	<property name="AutoSaveScript" type="System.Boolean">False</property>
+	<property name="AutoSaveScriptPlay" type="System.Boolean">False</property>
+	<property name="HighlightFriend" type="System.Boolean">False</property>
+	<property name="ScriptDisablePlayFinish" type="System.Boolean">False</property>
+	<property name="ShowWaypointOverhead" type="System.Boolean">True</property>
+	<property name="ShowWaypointDistance" type="System.Boolean">True</property>
+	<property name="ShowWaypointSeconds" type="System.Int32">10</property>
+	<property name="ClearWaypoint" type="System.Boolean">False</property>
+	<property name="HideWaypointDistance" type="System.Int32">4</property>
+	<property name="CreateWaypointOnDeath" type="System.Boolean">False</property>
+	<property name="ShowPartyFriendOverhead" type="System.Boolean">True</property>
+	<property name="OverrideSpellFormat" type="System.Boolean">True</property>
+	<property name="PotionReequip" type="System.Boolean">True</property>
+	<property name="EnableTextFilter" type="System.Boolean">False</property>
+	<property name="DisableScriptTooltips" type="System.Boolean">False</property>
+	<property name="BuyAgentsIgnoreGold" type="System.Boolean">False</property>
+	<property name="OverrideBuffDebuffFormat" type="System.Boolean">False</property>
+	<property name="NextPrevAlphabetical" type="System.Boolean">False</property>
+	<property name="FilterWyrmGraphics" type="System.Boolean">False</property>
+	<property name="WyrmGraphic" type="System.Int32">0</property>
+	<property name="WindowSizeX" type="System.Int32">546</property>
+	<property name="WindowSizeY" type="System.Int32">411</property>
+	<property name="PlayEmoteSound" type="System.Boolean">False</property>
+	<property name="ShowBuffDebuffGump" type="System.Boolean">False</property>
+	<property name="ShowBuffDebuffIcons" type="System.Boolean">True</property>
+	<property name="ShowBuffDebuffWidth" type="System.Int32">100</property>
+	<property name="ShowBuffDebuffHeight" type="System.Int32">18</property>
+	<property name="ShowBuffDebuffSort" type="System.Int32">2</property>
+	<property name="UseBlackBuffDebuffBg" type="System.Boolean">False</property>
+	<property name="ShowBuffDebuffTimeType" type="System.Int32">0</property>
+	<property name="DefaultScriptDelay" type="System.Boolean">True</property>
+	<property name="EnableHighlight" type="System.Boolean">False</property>
+	<property name="DisableScriptStopwatch" type="System.Boolean">False</property>
+	<filters>
+		<filter name="1387" enable="True" />
+		<filter name="1003" enable="True" />
+		<filter name="1004" enable="True" />
+		<filter name="1005" enable="True" />
+		<filter name="1006" enable="True" />
+		<filter name="1952" enable="True" />
+	</filters>
+	<counters>
+		<counter name="Bandages" enabled="True" image="True" />
+		<counter name="Black Pearl" enabled="True" image="True" />
+		<counter name="Blood Moss" enabled="True" image="True" />
+		<counter name="Cure Potions" enabled="True" image="True" />
+		<counter name="Garlic" enabled="True" image="True" />
+		<counter name="Ginseng" enabled="True" image="True" />
+		<counter name="Heal Potions" enabled="True" image="True" />
+		<counter name="Mandrake Root" enabled="True" image="True" />
+		<counter name="Nightshade" enabled="True" image="True" />
+		<counter name="Spider's Silk" enabled="True" image="True" />
+		<counter name="Sulfurous Ash" enabled="True" image="True" />
+		<counter name="Explosion Potions" enabled="True" image="True" />
+		<counter name="Agility Potions" enabled="True" image="True" />
+		<counter name="Total Refresh Potion" enabled="True" image="True" />
+		<counter name="Strength Potion" enabled="True" image="True" />
+	</counters>
+	<agents>
+		<Buy-1 enabled="False" alias="">
+			<item id="3974" amount="999" />
+			<item id="3973" amount="999" />
+			<item id="3976" amount="999" />
+			<item id="3981" amount="999" />
+			<item id="3963" amount="999" />
+			<item id="3962" amount="999" />
+			<item id="3980" amount="999" />
+			<item id="3972" amount="999" />
+		</Buy-1>
+		<Buy-2 enabled="False" alias="">
+			<item id="3976" amount="999" />
+			<item id="3962" amount="999" />
+		</Buy-2>
+		<Buy-3 enabled="False" alias="">
+			<item id="3963" amount="99" />
+			<item id="3974" amount="99" />
+			<item id="3981" amount="99" />
+			<item id="3980" amount="99" />
+		</Buy-3>
+		<Buy-4 enabled="False" alias="" />
+		<Buy-5 enabled="False" alias="" />
+		<Buy-6 enabled="False" alias="" />
+		<Buy-7 enabled="False" alias="" />
+		<Buy-8 enabled="False" alias="" />
+		<Buy-9 enabled="False" alias="" />
+		<Buy-10 enabled="False" alias="" />
+		<Buy-11 enabled="False" alias="" />
+		<Buy-12 enabled="False" alias="" />
+		<Buy-13 enabled="False" alias="" />
+		<Buy-14 enabled="False" alias="" />
+		<Buy-15 enabled="False" alias="" />
+		<Buy-16 enabled="False" alias="" />
+		<Buy-17 enabled="False" alias="" />
+		<Buy-18 enabled="False" alias="" />
+		<Buy-19 enabled="False" alias="" />
+		<Buy-20 enabled="False" alias="" />
+		<IgnoreList enabled="False" />
+		<Organizer-1 hotbag="1092144555" alias="">
+			<item id="3851" />
+			<item id="3852" />
+			<item id="3849" />
+			<item id="3848" />
+			<item id="3847" />
+			<item id="3853" />
+			<item id="8993" />
+		</Organizer-1>
+		<Organizer-2 hotbag="1092144555" alias="">
+			<item id="3980" />
+			<item id="3963" />
+			<item id="3976" />
+			<item id="3974" />
+			<item id="3962" />
+			<item id="3972" />
+			<item id="3981" />
+			<item id="3973" />
+		</Organizer-2>
+		<Organizer-3 hotbag="1223903537" alias="">
+			<item id="3705" />
+		</Organizer-3>
+		<Organizer-4 hotbag="0" alias="" />
+		<Organizer-5 hotbag="0" alias="" />
+		<Organizer-6 hotbag="0" alias="" />
+		<Organizer-7 hotbag="0" alias="" />
+		<Organizer-8 hotbag="0" alias="" />
+		<Organizer-9 hotbag="0" alias="" />
+		<Organizer-10 hotbag="0" alias="" />
+		<Organizer-11 hotbag="0" alias="" />
+		<Organizer-12 hotbag="0" alias="" />
+		<Organizer-13 hotbag="0" alias="" />
+		<Organizer-14 hotbag="0" alias="" />
+		<Organizer-15 hotbag="0" alias="" />
+		<Organizer-16 hotbag="0" alias="" />
+		<Organizer-17 hotbag="0" alias="" />
+		<Organizer-18 hotbag="0" alias="" />
+		<Organizer-19 hotbag="0" alias="" />
+		<Organizer-20 hotbag="0" alias="" />
+		<Restock-1 hotbag="0" alias="" />
+		<Restock-2 hotbag="0" alias="" />
+		<Restock-3 hotbag="0" alias="" />
+		<Restock-4 hotbag="0" alias="" />
+		<Restock-5 hotbag="0" alias="" />
+		<Restock-6 hotbag="0" alias="" />
+		<Restock-7 hotbag="0" alias="" />
+		<Restock-8 hotbag="0" alias="" />
+		<Restock-9 hotbag="0" alias="" />
+		<Restock-10 hotbag="0" alias="" />
+		<Restock-11 hotbag="0" alias="" />
+		<Restock-12 hotbag="0" alias="" />
+		<Restock-13 hotbag="0" alias="" />
+		<Restock-14 hotbag="0" alias="" />
+		<Restock-15 hotbag="0" alias="" />
+		<Restock-16 hotbag="0" alias="" />
+		<Restock-17 hotbag="0" alias="" />
+		<Restock-18 hotbag="0" alias="" />
+		<Restock-19 hotbag="0" alias="" />
+		<Restock-20 hotbag="0" alias="" />
+		<AutoSearchExemptions />
+		<Sell enabled="False" />
+		<UseOnce />
+		<Scavenger enabled="True">
+			<item id="7393" />
+			<item id="3821" />
+		</Scavenger>
+	</agents>
+	<dresslists />
+	<hotkeys>
+		<key mod="0" key="32" send="False" command="">L:1058</key>
+		<key mod="0" key="-2" send="False" command="">L:1059</key>
+		<key mod="0" key="-3" send="False" command="">L:1060</key>
+		<key mod="2" key="192" send="False" command="">L:1196</key>
+		<key mod="0" key="192" send="False" command="">L:1395</key>
+		<key mod="2" key="32" send="False" command="">L:1311</key>
+		<key mod="2" key="83" send="False" command="">L:1015</key>
+		<key mod="0" key="88" send="False" command="">L:3002011</key>
+		<key mod="0" key="67" send="False" command="">L:3002013</key>
+		<key mod="0" key="65" send="False" command="">L:3002015</key>
+		<key mod="2" key="65" send="False" command="">L:3002017</key>
+		<key mod="0" key="90" send="False" command="">L:3002018</key>
+		<key mod="1" key="88" send="False" command="">L:3002019</key>
+		<key mod="2" key="67" send="False" command="">L:3002020</key>
+		<key mod="0" key="81" send="False" command="">L:3002021</key>
+		<key mod="1" key="90" send="False" command="">L:3002026</key>
+		<key mod="1" key="66" send="False" command="">L:3002027</key>
+		<key mod="2" key="86" send="False" command="">L:3002028</key>
+		<key mod="0" key="86" send="False" command="">L:3002030</key>
+		<key mod="0" key="84" send="False" command="">L:3002032</key>
+		<key mod="0" key="87" send="False" command="">L:3002034</key>
+		<key mod="1" key="70" send="False" command="">L:3002038</key>
+		<key mod="2" key="87" send="False" command="">L:3002039</key>
+		<key mod="0" key="68" send="False" command="">L:3002040</key>
+		<key mod="2" key="68" send="False" command="">L:3002041</key>
+		<key mod="1" key="82" send="False" command="">L:3002042</key>
+		<key mod="1" key="68" send="False" command="">L:3002044</key>
+		<key mod="2" key="82" send="False" command="">L:3002046</key>
+		<key mod="0" key="82" send="False" command="">L:3002047</key>
+		<key mod="2" key="71" send="False" command="">L:3002048</key>
+		<key mod="1" key="65" send="False" command="">L:3002049</key>
+		<key mod="0" key="69" send="False" command="">L:3002052</key>
+		<key mod="2" key="69" send="False" command="">L:3002053</key>
+		<key mod="0" key="73" send="False" command="">L:3002054</key>
+		<key mod="2" key="70" send="False" command="">L:3002061</key>
+		<key mod="0" key="83" send="False" command="">L:1060517</key>
+		<key mod="2" key="81" send="False" command="">L:1471</key>
+		<key mod="0" key="35" send="False" command="">L:1083</key>
+		<key mod="0" key="71" send="False" command="">Play: ALCH throw exp</key>
+		<key mod="0" key="190" send="False" command="">Play: bank guards</key>
+		<key mod="0" key="54" send="False" command="">Play: mana pot</key>
+		<key mod="0" key="76" send="False" command="">L:1369</key>
+		<key mod="0" key="79" send="False" command="">L:1371</key>
+		<key mod="4" key="-2" send="False" command="">L:1473</key>
+		<key mod="0" key="112" send="False" command="">L:1025</key>
+		<key mod="0" key="115" send="False" command="">L:1305</key>
+		<key mod="4" key="70" send="False" command="">L:2022</key>
+		<key mod="4" key="68" send="False" command="">L:2024</key>
+		<key mod="4" key="83" send="False" command="">L:2027</key>
+		<key mod="0" key="114" send="False" command="">L:1027</key>
+		<key mod="0" key="53" send="False" command="">L:1028</key>
+		<key mod="0" key="49" send="False" command="">L:1029</key>
+		<key mod="0" key="50" send="False" command="">L:1030</key>
+		<key mod="0" key="70" send="False" command="">L:1032</key>
+		<key mod="0" key="51" send="False" command="">L:1033</key>
+		<key mod="0" key="52" send="False" command="">L:1034</key>
+		<key mod="4" key="20" send="False" command="">L:2035</key>
+		<key mod="1" key="76" send="False" command="">L:1044062</key>
+		<key mod="0" key="186" send="False" command="">L:1044074</key>
+		<key mod="1" key="72" send="False" command="">L:1044081</key>
+		<key mod="0" key="219" send="False" command="">L:1044082</key>
+		<key mod="0" key="80" send="False" command="">L:1044090</key>
+		<key mod="0" key="78" send="False" command="">L:1044092</key>
+		<key mod="0" key="20" send="False" command="">L:1044106</key>
+		<key mod="2" key="90" send="False" command="">L:1307</key>
+		<key mod="2" key="88" send="False" command="">L:1308</key>
+		<key mod="4" key="-3" send="False" command="">Add Target To: PETS</key>
+	</hotkeys>
+	<passwords />
+	<overheadmessages />
+	<containerlabels />
+	<macrovariables />
+	<scriptvariables />
+	<friends>
+		<group name="PETS" enabled="True" overheadformat="[Friend]" overheadhue="63" overheadenabled="False">
+			<friend name="a nightmare" serial="0x99DAF" />
+			<friend name="a trouser snake" serial="0x1796DC" />
+			<friend name="a white widow" serial="0x77AFB" />
+			<friend name="Nissan Ultima" serial="0xA923A" />
+			<friend name="a hell hound" serial="0x2E739A" />
+			<friend name="a hell hound" serial="0xACD11" />
+		</group>
+	</friends>
+	<textfilters />
+	<targetfilters />
+	<soundfilters />
+	<waypoints />
+</profile>
