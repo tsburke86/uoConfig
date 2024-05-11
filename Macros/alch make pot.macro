@@ -1,0 +1,5 @@
+!Loop
+Assistant.Macros.DoubleClickTypeAction|3739|True
+Assistant.Macros.WaitForGumpAction|949095101|False|1
+Assistant.Macros.GumpResponseAction|21|0|0
+Assistant.Macros.WaitForGumpAction|949095101|False|1

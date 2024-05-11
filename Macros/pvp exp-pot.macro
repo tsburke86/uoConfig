@@ -1,0 +1,15 @@
+Assistant.Macros.HotKeyAction|3002053|
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.HotKeyAction|1032|
+Assistant.Macros.PauseAction|00:00:01.1000000
+Assistant.Macros.HotKeyAction|1058|
+Assistant.Macros.PauseAction|00:00:00.9500000
+Assistant.Macros.HotKeyAction|3002040|
+Assistant.Macros.HotKeyAction|1032|
+Assistant.Macros.OverheadMessageAction|945|2
+Assistant.Macros.PauseAction|00:00:00.6000000
+Assistant.Macros.OverheadMessageAction|945|1
+Assistant.Macros.PauseAction|00:00:00.6000000
+Assistant.Macros.OverheadMessageAction|945|0
+Assistant.Macros.PauseAction|00:00:00.2000000
+Assistant.Macros.HotKeyAction|1058|

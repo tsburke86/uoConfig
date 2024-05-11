@@ -1,0 +1,17 @@
+!Loop
+Assistant.Macros.HotKeyAction|1027|
+Assistant.Macros.ClearSysMessages
+Assistant.Macros.WaitForTargetAction|30
+Assistant.Macros.HotKeyAction|2067|
+Assistant.Macros.HotKeyAction|1058|
+Assistant.Macros.IfAction|4|0|that is too far awaya
+Assistant.Macros.PauseAction|00:00:00.5000000
+Assistant.Macros.ElseAction
+Assistant.Macros.PauseAction|00:00:02
+Assistant.Macros.OverheadMessageAction|945|3
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.OverheadMessageAction|945|2
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.OverheadMessageAction|945|1
+Assistant.Macros.PauseAction|00:00:01
+Assistant.Macros.EndIfAction
